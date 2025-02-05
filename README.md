@@ -22,21 +22,33 @@ plataforma, onde seria mais indicada a compra?
 A estrutura do projeto segue uma organização clara e lógica para facilitar a navegação:
 
 ├── docs
+
     - rental_ny_baseline.csv
+
     - rental_ny_clean.csv
+
     - teste_indicium_precificacao.csv
+
 ├── files
+
     - [Lighthouse] Desafio Ciência de Dados 2025-3.docx
+
 ├── models
+
     - model_rfe_xgb_ajustado.pkl
+
 ├── notebooks
+
     - rental_price_ny_EDA.ipynb
+
     - rental_price_ny_model.ipynb
+
 ├── LH_CD_LUIZSOUTES_EDA.pdf
+
 └── README.md
 
 
-- **`docs`**: Diretório com os arquivos CSV contendo os dados brutos das despesas parlamentares.
+- **`docs`**: Diretório com o arquivo em CSV fornecido para o desenvolvimento deste teste e outros dois CSVs com os dataframes manipulados que foram utilizados no projeto.
 - **`notebooks`**: Contém o notebook Jupyter `rental_price_ny_EDA.ipynb` com o tratamento visualização e análises dos dados. Além disso, contém o arquivo 'rental_price_ny_model.ipynb' com a criação e treinamento do modelo que utiliza a biblioteca XG Boost Regressor. No final deste consta um teste com uma sugestão de valor para uma nova propriedade.
 - **`LH_CD_LUIZSOUTES_EDA.pdf`**: Este arquivo possui a Expoloração e Análise dos Dados completa. Para melhor navegabilidade neste arquivo, faça o download e utilize o Adobe Acrobat.
 
