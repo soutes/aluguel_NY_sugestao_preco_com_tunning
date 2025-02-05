@@ -58,11 +58,17 @@ A estrutura do projeto segue uma organização clara e lógica para facilitar a 
 - Bibliotecas com versão igual ou superior a:
 ### Pythonic 
 numpy = 2.2.2
+
 pandas = 2.2.3
+
 matplotlib = 3.10.0
+
 seaborn = 0.13.2
+
 scikit-learn = 1.6.1
+
 xgboost = 2.1.3
+
 plotly = 6.0.0
 
 ## Funcionalidades
@@ -90,4 +96,3 @@ plotly = 6.0.0
 ## Contato
 Desenvolvedor: Luiz Soutes
 LinkedIn: https://www.linkedin.com/in/soutes/
-# lh_cd_luizsoutes
