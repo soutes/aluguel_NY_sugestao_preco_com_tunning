@@ -37,11 +37,15 @@ A estrutura do projeto segue uma organização clara e lógica para facilitar a 
 
     - model_rfe_xgb_ajustado.pkl
 
+    - model_rfe_lgb_tunnig.pkl (inluído após o prazo de envio com fins educativos. Não deve ser considerado na seletiva do Lighthouse.)
+
 ├── notebooks
 
     - rental_price_ny_EDA.ipynb
 
     - rental_price_ny_model.ipynb
+
+    - rental_price_ny_model_tunning.ipynb (inluído após o prazo de envio com fins educativos. Não deve ser considerado na seletiva do Lighthouse.)
 
 ├── LH_CD_LUIZSOUTES_EDA.pdf
 
