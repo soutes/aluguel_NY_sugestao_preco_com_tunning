@@ -93,6 +93,15 @@ plotly = 6.0.0
     - Atualização da base com dados mais atuais
     - Refinar os hiper-parâmetros do modelo XGBoost
 
+# Atualização no projeto
+Após o prazo para envio, estudei sobre como refinar os hiper parâmetros.
+Foi durante estes estudos que tive conhecimento sobre as vantagens do LGBMRegressore e também do **Bayesian Optimization.**
+Então apliquei os mesmos no projeto e consegui melhores resultados, conforme demonstro no final do arquivo rental_price_ny_model_tunning.ipynb. Após isto, exportei o modelo para pkl (models/model_rfe_lgb_tunnig.pkl).
+
+## Observação:
+Estes arquivos (rental_price_ny_model_tunning.ipynb. e model_rfe_lgb_tunnig.pkl) servem apenas para aprimorar meu conhecimento e não para a seletiva do Programa Lighthouse da Indicium Tech. 
+
 ## Contato
 Desenvolvedor: Luiz Soutes
 LinkedIn: https://www.linkedin.com/in/soutes/
+# lh_cd_luizsoutes
