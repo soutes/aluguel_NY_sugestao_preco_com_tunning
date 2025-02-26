@@ -1,6 +1,6 @@
 # Projeto de Ciências de Dados - Rental Price NY
 
-Este projeto faz parte de um teste para o Programa Lighthouse da Indicium Tech (saiba mais sobre este programa em https://materiais.indicium.tech/lighthouse-aguardar-nova-turma).
+Desenvolvi este projeto como teste para o Programa Lighthouse da Indicium Tech (saiba mais sobre este programa em https://materiais.indicium.tech/lighthouse-aguardar-nova-turma).
 
 ## Objetivo
 Desenvolver um modelo de previsão de preços a partir do dataset oferecido, e avaliar
