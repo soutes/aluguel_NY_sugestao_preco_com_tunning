@@ -108,4 +108,3 @@ Estes arquivos (rental_price_ny_model_tunning.ipynb. e model_rfe_lgb_tunnig.pkl)
 ## Contato
 Desenvolvedor: Luiz Soutes
 LinkedIn: https://www.linkedin.com/in/soutes/
-# lh_cd_luizsoutes
